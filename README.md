@@ -6,7 +6,7 @@ The scope of this work is defined as:
 3. Water Management
 4. Mineral/Nutrient Management
 
-This project touches on 3 of the fourteen engineering grand challenges:
+This project touches on 3 of the fourteen NAE engineering grand challenges:
 
 1. Manage the Nitrogen Cycle - To restore balance to the nitrogen cycle with better fertilization technologies and by capturing and recycling waste.
 2. Develop Carbon Sequestration Methods - Working on ways to capture and store excess carbon dioxide to prevent global warming.
