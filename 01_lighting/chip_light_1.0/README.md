@@ -1,8 +1,8 @@
 # Chip Light 1.0
 
 # Disclosure
-1. Potential burn risk.
-2. Potential electrical shock risk.
+1. Potential (severe) burn risk.
+2. Potential (severe, life threatening) electrical shock risk from working with electrical outlet level voltage/amps.
 
 *Note: Exercise all appropriate caution when designing/building/using hot objects (electrical or otherwise). 
 
@@ -22,7 +22,7 @@
 8. Insulated crimp terminals
 
 # Results
-1. Testing of the heatsink center and boundary temperature was conducted hourly for a period of 12 straight hours. After ramp up, the temperature gradient was consistent over this time and ranged from 120 degrees C (center) to 110 degrees C (boundary). The extrude temperature of PLA+ is 190 degrees C to 230 degrees C, so this is well within the material threshold to minimize fire risk, though it does present a burn risk given the heatsink is exposed.
+1. Testing of the heatsink center and boundary temperature was conducted hourly for a period of 12 straight hours. After ramp up, the temperature gradient was consistent over this time and ranged from 120 degrees C (center) to 110 degrees C (boundary). The extrude temperature of PLA+ is 190 degrees C to 230 degrees C, so this is well within the material threshold to minimize fire risk, though it does present a potential (severe) burn risk given the heatsink is exposed.
 2. Light output and coverage is more than sufficient for (many) single-plant growth needs at a range of distances.
 
 # Next Steps
