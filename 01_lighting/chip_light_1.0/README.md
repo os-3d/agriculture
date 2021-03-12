@@ -6,7 +6,7 @@
 
 *Note: Exercise all appropriate caution when designing/building/using hot objects (electrical or otherwise). 
 
-# Print Characteristics
+# Print Characteristics (Example Images)
 1. Prusa MK3S+ 3D Printer
 2. White PLA+
 3. Nozzle: 0.4mm
