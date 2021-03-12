@@ -22,7 +22,7 @@
 8. Insulated crimp terminals
 
 # Results
-1. Testing of the heatsink center and boundary temperature was conducted hourly for a period of 12 straight hours. After ramp up, the temperature gradient was consistent over this time and ranged from 51 degrees C (center) to 42 degrees C (boundary). The extrude temperature of PLA+ is 190 to 230 degrees C, so this is well within the material threshold to minimize melt or fire risk, though it does present a potential (severe) burn risk given the heatsink is exposed.
+1. Testing of the heatsink center and boundary temperature was conducted hourly for a period of 12 straight hours. After ramp up, the temperature gradient was consistent over this time and ranged from 53 degrees C (center) to 42 degrees C (boundary). The extrude temperature of PLA+ is 190 to 230 degrees C, so this is well within the material threshold to minimize melt or fire risk, though it does present a potential (severe) burn risk given the heatsink is exposed.
 2. Light output and coverage is more than sufficient for (many) single-plant growth needs at a range of distances.
 
 # Next Steps
