@@ -1,4 +1,4 @@
-# Chip Light 2.0
+# Chip Light 2.0 - Work in Progress
 
 # Disclosure
 1. Potential (severe) burn risk.
