@@ -6,6 +6,16 @@
 
 *Note: Exercise all appropriate caution when designing/building/using hot objects (electrical or otherwise). 
 
+# Print Characteristics
+1. Prusa MK3S+ 3D Printer
+2. White PLA+
+3. Nozzle: 0.4mm
+4. Initial Layer Temp: 235 C
+5. Layer Temp: 220 C
+6. Infill: 20%
+7. Quality: Draft (0.3mm layer hieght)
+8. Support/Brim: None
+
 # Features
 1. Passive Cooling
 2. Light Diffusing
