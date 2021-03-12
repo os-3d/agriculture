@@ -8,7 +8,7 @@
 
 # Print Characteristics (Example Images)
 1. Prusa MK3S+ 3D Printer
-2. White PLA+
+2. Filament: White PLA+
 3. Nozzle: 0.4mm
 4. Initial Layer Temp: 235 C
 5. Layer Temp: 220 C
