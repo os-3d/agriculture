@@ -8,7 +8,7 @@
 
 # Print Characteristics (Example Images)
 1. Prusa MK3S+ 3D Printer
-2. Filament: White PLA+
+2. Filament: White PLA+ (~ $2 worth)
 3. Nozzle: 0.4mm
 4. Initial Layer Temp: 235 C
 5. Layer Temp: 220 C
@@ -22,14 +22,14 @@
 3. Quick Connect System
 
 # Additional Items List
-1. 50W Full Spectrum LED COB with integrated 120v AC to DC controller 
-2. Aluminium heatsink 150mm (L) x 70mm (W) x10mm (H)
-3. COB LED lens, 90 degree, size: 75x40mm
-4. 125v 10A switch
-5. 16 AWG solid-core wire
-6. Waterproof electrical connector, 16 AWG 3 pin
-7. Silicon adhesive
-8. Insulated crimp terminals
+1. 50W Full Spectrum LED COB with integrated 120v AC to DC controller ($11)
+2. Aluminium heatsink 150mm (L) x 70mm (W) x10mm (H) ($11)
+3. COB LED lens, 90 degree, size: 75x40mm ($14)
+4. 125v 10A switch ($1)
+5. 16 AWG solid-core wire (< $0.50)
+6. Waterproof electrical connector, 16 AWG 3 pin ($2.60)
+7. Silicon adhesive (< $0.50)
+8. Insulated crimp terminals (< $0.50)
 
 # Results
 1. Testing of the heatsink center and boundary temperature was conducted hourly for a period of 12 straight hours. After ramp up, the temperature gradient was consistent over this time and ranged from 53 degrees C (center) to 42 degrees C (boundary). The extrude temperature of PLA+ is 190 to 230 degrees C, so this is well within the material threshold to minimize melt or fire risk, though it does present a potential (severe) burn risk given the heatsink is exposed.
