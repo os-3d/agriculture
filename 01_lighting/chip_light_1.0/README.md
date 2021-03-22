@@ -6,7 +6,7 @@
 
 *Note: Exercise all appropriate caution when designing/building/using hot objects (electrical or otherwise). 
 
-# Print Characteristics (Example Images)
+# Print Characteristics
 1. Prusa MK3S+ 3D Printer
 2. Filament: White PLA+ (~ $2 worth)
 3. Nozzle: 0.4mm
@@ -34,6 +34,17 @@
 # Results
 1. Testing of the heatsink center and boundary temperature was conducted hourly for a period of 12 straight hours. After ramp up, the temperature gradient was consistent over this time and ranged from 53 degrees C (center) to 42 degrees C (boundary). The extrude temperature of PLA+ is 190 to 230 degrees C, so this is well within the material threshold to minimize melt or fire risk, though it does present a potential (severe) burn risk given the heatsink is exposed.
 2. Light output and coverage is more than sufficient for (many) single-plant growth needs at a range of distances.
+
+# Images
+
+**Internal Construction**
+![chip_light_1 0_open](https://user-images.githubusercontent.com/80529370/111985564-22bdb780-8ae3-11eb-9564-f155b56a21aa.jpg)
+
+**Assembled Top View**
+![chip_light_1 0_top](https://user-images.githubusercontent.com/80529370/111985580-27826b80-8ae3-11eb-98d4-99c04e4b8b64.jpg)
+
+**Light Output**
+![chip_light_1 0_output](https://user-images.githubusercontent.com/80529370/111985670-48e35780-8ae3-11eb-9bb3-f19bfe3e200a.jpg)
 
 # Next Steps
 1. Design a solution that covers the heatsink.
